@@ -10,7 +10,7 @@ library(animation)
 
 
 #Importing Data
-setwd("C:/Users/Michael/Desktop/MSc. Business and Data Analytics/Assignment/R Assignment/Credit Card Transactions Fraud Detection Dataset")
+setwd("C:/Users/Michael/Desktop/Credit Card Transactions Fraud Detection Dataset")
 
 fraudtrain <- read.csv("fraudTrain.csv")
 fraudtest <- read.csv("fraudTest.csv")
